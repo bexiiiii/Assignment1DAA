@@ -62,3 +62,4 @@ public class ClosestPair {
         return Math.hypot(dx, dy);
     }
 }
+// NOTE: in strip, check up to ~7-8 neighbors (y-ordered) by theory.
