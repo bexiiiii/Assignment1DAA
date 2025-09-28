@@ -59,3 +59,4 @@ public class DeterministicSelect {
         int t = a[i]; a[i] = a[j]; a[j] = t; m.swaps++;
     }
 }
+// NOTE: MoM5 (groups of 5) ensures linear-time pivot selection.
