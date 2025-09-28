@@ -38,3 +38,4 @@ public class MergeSort {
         for (k = lo; k <= hi; k++) a[k] = buf[k];
     }
 }
+// NOTE: cutoff=24 chosen empirically for small subarrays.
