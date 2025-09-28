@@ -30,3 +30,4 @@ public class QuickSort {
         }
     }
 }
+// NOTE: recurse on smaller side; iterate on larger to bound stack depth.
