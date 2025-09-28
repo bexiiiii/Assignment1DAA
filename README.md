@@ -76,23 +76,23 @@ Graphs are plotted to compare theoretical and experimental performance.
 ---
 
 ### Runtime vs n
-docs/plots/runtime_vs_n.png
+![Runtime trends](docs/plots/runtime_vs_n.png)
 
 ### Recursion Depth vs n
-docs/plots/depth_vs_n.png
+![Depth trends](docs/plots/depth_vs_n.png)
 
 ### Detailed Metrics (n=200000)
 - **Runtime (ms)**  
-  docs/plots/time_ms_200k.png
+  ![Runtime](docs/plots/time_ms_200k.png)
 
 - **Comparisons**  
-  docs/plots/comparisons_200k.png
+  ![Comparisons](docs/plots/comparisons_200k.png)
 
 - **Max Recursion Depth**  
-  docs/plots/depth_200k.png
+  ![Depth](docs/plots/depth_200k.png)
 
 - **Allocations**  
-  (docs/plots/allocations_200k.png
+  ![Allocations](docs/plots/allocations_200k.png)
 
 ---
 
